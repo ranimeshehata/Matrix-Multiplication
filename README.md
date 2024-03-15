@@ -25,8 +25,7 @@ A parallelized version of matrix multiplication can be done using one of these t
 ## 3. Comparing the three implementations according to the following:
     Number of threads created and Execution time taken:
     Creating and handling threads requires extra overhead and lots of computation, so, it's not always the ideal solution to go for multi-threading, and there's always a tradeoff.
-    ![WhatsApp Image 2024-03-15 at 5 50 42 AM](https://github.com/ranimeshehata/Matrix-Multiplication/assets/121239735/c53101a5-88ad-4ee1-8d56-4dd52e3ec49d)
-
+![WhatsApp Image 2024-03-15 at 5 50 42 AM](https://github.com/ranimeshehata/Matrix-Multiplication/assets/121239735/c53101a5-88ad-4ee1-8d56-4dd52e3ec49d)
 
 The program does the following:
 
